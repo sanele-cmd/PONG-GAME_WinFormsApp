@@ -1,2 +1,30 @@
 # PONG-GAME_WinFormsApp
-My First Windows Project using C# , A simple PONG GAME I just built all by myself.
+Pong Game – C# WinForms
+This is a simple PONG GAME I created using C#
+and Windows Form. It is my first project I built while learning C#
+
+Features
+
+1.single - player mode
+2.Player Controls by clicking
+3.Reset button
+4.Score Tracking 
+
+Controls
+
+1.Buttons
+2.Labels
+3.Panel
+  
+
+
+How to Run
+
+1.Open the solution file(.sln) in Visual Studio
+
+2.Run the Application by Pressing F5
+  
+
+
+Acknowledgments
+This project was made possible by watching  any YouTube tutorials , following my lectures advice and hours of practicing
